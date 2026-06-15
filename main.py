@@ -9,7 +9,7 @@ table = '[Dwh_VivaPeru].[Data_Peru].[His_Pqrs]'
 
 def main():
 
-    print("Leyendo archivo Excel...")
+    # print("Leyendo archivo Excel...")
 
     df = leer_excel()
     
